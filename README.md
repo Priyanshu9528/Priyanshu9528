@@ -1,4 +1,3 @@
-![logo](https://github.com/Priyanshu9528/Priyanshu9528/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi <img alt="Hi" src="./Hi.gif" width="30px" height="30px" />, I'm Priyanshu Kumar</h1>
 <h3 align="center">A passionate frontend developer and data analyst from India</h3>
@@ -6,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu9528&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu9528" /> </p>
 🌱 I'm currently learning Data Structures and Algorithms
 
-💬 Ask me about HTML, CSS, JavaScript, React.js, Python, SQL
+💬 Ask me about HTML, CSS, JavaScript, React.js, SQL, Excel , Power BI , Python
 
 👨‍💻 All of my projects are available at GitHub Repositories
 
