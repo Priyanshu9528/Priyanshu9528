@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu9528&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu9528" /> </p>
 🌱 I'm currently learning Data Structures and Algorithms
 
-💬 Ask me about HTML, CSS, JavaScript, React.js, SQL, Excel , Power BI , Python
+💬 Ask me about HTML, CSS, JavaScript, React.js, SQL, tailwind CSS , Excel , Power BI , Python
 
 👨‍💻 All of my projects are available at GitHub Repositories
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priyanshu-kumar-23b1a1220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-kumar-23b1a1220" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanshukumar95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-kumar-23b1a1220" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/priyanshukumar_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshukumar_01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/priyanshu950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="priyanshu950" height="30" width="40" /></a>
 </p>
